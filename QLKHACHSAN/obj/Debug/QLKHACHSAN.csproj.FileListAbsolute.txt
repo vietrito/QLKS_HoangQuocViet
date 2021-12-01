@@ -1,0 +1,234 @@
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe.config
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.csproj.GenerateResource.Cache
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.csprojResolveAssemblyReference.cache
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.pdb
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\vi\QLKHACHSAN.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\vi\QLKHACHSAN.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\RdlCompile.cache
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\RdlCompile.compiled
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\GUI\Report_TKDT_Phong.rdlc
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Data.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Map.v16.2.Core.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraMap.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Map.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Map.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Map.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Map.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+D:\DACN\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\GUI\Report_TKDT_Phong.rdlc
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe.config
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.pdb
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\vi\QLKHACHSAN.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Map.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraMap.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\vi\QLKHACHSAN.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.csproj.CopyComplete
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.Fm_HD.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.LoaiDichVu.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.QLDichVu.resources

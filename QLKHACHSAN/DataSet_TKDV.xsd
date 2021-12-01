@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_TKDV" targetNamespace="http://tempuri.org/DataSet_TKDV.xsd" xmlns:mstns="http://tempuri.org/DataSet_TKDV.xsd" xmlns="http://tempuri.org/DataSet_TKDV.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLKSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLKSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLKHACHSAN.Properties.Settings.GlobalReference.Default.QLKSConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TKDVTableAdapter" GeneratorDataComponentClassName="TKDVTableAdapter" Name="TKDV" UserDataComponentName="TKDVTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLKSConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill2" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData2" GeneratorSourceName="Fill2" GetMethodModifier="Public" GetMethodName="GetData2" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData2" UserSourceName="Fill2">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        DICHVU.TENDV, LOAIDV.TENLOAIDV, SUM(DICHVU.DGDV * CTDV.SOLUONG) AS Doanh_thu_dịch_vụ
+FROM            LOAIDV INNER JOIN
+                         DICHVU ON LOAIDV.MALOAIDV = DICHVU.MALOAIDV INNER JOIN
+                         CTDV ON DICHVU.MADV = CTDV.MADV
+GROUP BY DICHVU.TENDV, LOAIDV.TENLOAIDV</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TENDV" DataSetColumn="TENDV" />
+              <Mapping SourceColumn="TENLOAIDV" DataSetColumn="TENLOAIDV" />
+              <Mapping SourceColumn="Doanh_thu_dịch_vụ" DataSetColumn="Doanh_thu_dịch_vụ" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_TKDV" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet_TKDV" msprop:Generator_UserDSName="DataSet_TKDV">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TKDV" msprop:Generator_TableClassName="TKDVDataTable" msprop:Generator_TableVarName="tableTKDV" msprop:Generator_TablePropName="TKDV" msprop:Generator_RowDeletingName="TKDVRowDeleting" msprop:Generator_RowChangingName="TKDVRowChanging" msprop:Generator_RowEvHandlerName="TKDVRowChangeEventHandler" msprop:Generator_RowDeletedName="TKDVRowDeleted" msprop:Generator_UserTableName="TKDV" msprop:Generator_RowChangedName="TKDVRowChanged" msprop:Generator_RowEvArgName="TKDVRowChangeEvent" msprop:Generator_RowClassName="TKDVRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TENDV" msprop:Generator_ColumnVarNameInTable="columnTENDV" msprop:Generator_ColumnPropNameInRow="TENDV" msprop:Generator_ColumnPropNameInTable="TENDVColumn" msprop:Generator_UserColumnName="TENDV" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENLOAIDV" msprop:Generator_ColumnVarNameInTable="columnTENLOAIDV" msprop:Generator_ColumnPropNameInRow="TENLOAIDV" msprop:Generator_ColumnPropNameInTable="TENLOAIDVColumn" msprop:Generator_UserColumnName="TENLOAIDV" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Doanh_thu_dịch_vụ" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDoanh_thu_dịch_vụ" msprop:Generator_ColumnPropNameInRow="Doanh_thu_dịch_vụ" msprop:Generator_ColumnPropNameInTable="Doanh_thu_dịch_vụColumn" msprop:Generator_UserColumnName="Doanh_thu_dịch_vụ" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

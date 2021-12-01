@@ -1,0 +1,485 @@
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\GUI\Report_TKDT_Phong.rdlc
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe.config
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.pdb
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\vi\QLKHACHSAN.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Map.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraMap.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.Fm_HD.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.LoaiDichVu.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.QLDichVu.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\vi\QLKHACHSAN.resources.dll
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CopyComplete
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+C:\Users\Administrator\Downloads\project qlks\project qlks\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\GUI\Report_TKDT_Phong.rdlc
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe.config
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.pdb
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\vi\QLKHACHSAN.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Map.v16.2.Core.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraMap.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csprojAssemblyReference.cache
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.Fm_HD.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.LoaiDichVu.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.QLDichVu.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.GenerateResource.cache
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CoreCompileInputs.cache
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\vi\QLKHACHSAN.resources.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CopyComplete
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\hoand\Downloads\Compressed\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\GUI\Report_TKDT_Phong.rdlc
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe.config
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.pdb
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\vi\QLKHACHSAN.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Data.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Map.v16.2.Core.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraMap.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Map.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Map.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Map.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Map.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csprojAssemblyReference.cache
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.Fm_HD.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.LoaiDichVu.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.QLDichVu.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.GenerateResource.cache
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CoreCompileInputs.cache
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\vi\QLKHACHSAN.resources.dll
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CopyComplete
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+D:\codenam3\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\GUI\Report_TKDT_Phong.rdlc
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe.config
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.exe
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\QLKHACHSAN.pdb
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\vi\QLKHACHSAN.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Map.v16.2.Core.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraMap.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Map.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Map.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Map.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Map.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csprojAssemblyReference.cache
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.Fm_HD.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.LoaiDichVu.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.QLDichVu.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.GenerateResource.cache
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CoreCompileInputs.cache
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\vi\QLKHACHSAN.resources.dll
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CopyComplete
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\RdlCompile.cache
+D:\Tài liệu các môn\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\RdlCompile.compiled
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csprojAssemblyReference.cache
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.Fm_HD.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_ChuyenP.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDP.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTDV.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_CTHD.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_dangnhap.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_doimk.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_main.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_DoiPas.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_QLDatphong.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlnv.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlkhach.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_qlP.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_PhieuThue.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TaoTK.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.frm_TKBC.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.LoaiDichVu.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.GUI.QLDichVu.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.Properties.Resources.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.frm_text.vi.resources
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.GenerateResource.cache
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe.licenses
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\RdlCompile.cache
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\RdlCompile.compiled
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QuanlyKS.csproj.CoreCompileInputs.cache
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.exe
+D:\tailieucacmon\Năm 3 k2\C#\QLKHACHSAN\QLKHACHSAN\obj\Debug\QLKHACHSAN.pdb
